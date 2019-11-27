@@ -2,9 +2,7 @@
 % - check if repetitions of conditions are balanced (same repetition number)
 % - check if there are no more than two same cue in a row
 % -
-% TO BE COMPLETED!!
-% 
-% rt 20160616
+
 clear all
 iSub=2;
 nRuns=6;
