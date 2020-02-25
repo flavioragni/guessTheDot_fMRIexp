@@ -1,9 +1,7 @@
 # guessTheDot_fMRIexp
 
----------------------------------------------------------------------------------------
-    GuessTheDot - Decoding stimulus identity in occipital, parietal 
-	and inferotemporal cortices during visual mental imagery
----------------------------------------------------------------------------------------
+GuessTheDot - Decoding stimulus identity in occipital, parietal and inferotemporal cortices during visual mental imagery
+
 Authors: Flavio Ragni, Raffaele Tucciarelli, Patrik Andersson, and Angelika Lingnau
 25 February 2020
 
