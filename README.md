@@ -13,6 +13,6 @@ The "Task" folder contains the scripts used to run the fMRI task. ASF toolbox (h
 
 The folder "Scripts" are stored all codes used to perform feature selection, ROI-based and searchlight-based MVP analyses, and statistical assessment by means of permutation testing. Script for the searchlight-based MVPA are optimized to run analysis in parallel on the CIMeC SGE server.
 
-For any questions or curiosity, please contact me at flavio.ragni@unitn.it
+For any questions or curiosity, please contact me at flavio.ragni@gmail.com
 
 fr 2020-02-25
